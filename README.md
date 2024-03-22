@@ -1,4 +1,6 @@
 # lab10
+Name: Lisa Kikuchi
+Student No.: n01675386
 
 Summary:
 The website is themed around Japanese cuisine and consists of a navigation bar, a hero section with a thematic image, sections highlighting features and dishes, a contact form, and a footer.
