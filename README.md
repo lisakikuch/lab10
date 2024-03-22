@@ -1,5 +1,5 @@
 # lab10
-Name: Lisa Kikuchi
+Name: Lisa Kikuchi, 
 Student No.: n01675386
 
 Summary:
